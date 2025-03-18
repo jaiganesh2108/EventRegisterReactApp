@@ -1,7 +1,8 @@
 # React + Vite
+Event Registeration app
+  this app helps to register the user for options like hackathon, workshop, webinar
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rule
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh

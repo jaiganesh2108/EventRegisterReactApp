@@ -1,6 +1,7 @@
 # React + Vite
 <h1>Event Registeration app:</h1>
   this app helps to register the user for options like hackathon, workshop, webinar
+  This is just the frontend work! (no backend integration)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rule
 Currently, two official plugins are available:
